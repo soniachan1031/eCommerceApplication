@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53F6FA6E-CD1A-436F-8743-38B7686504BE}|ProductUnitTests\\ProductUnitTests.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\prog2070_assignment2_group4\\productunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53F6FA6E-CD1A-436F-8743-38B7686504BE}|ProductUnitTests\\ProductUnitTests.csproj|solutionrelative:productunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\prog2070_assignment2_group4\\prog2070_assignment2_group4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|solutionrelative:prog2070_assignment2_group4\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\prog2070_assignment2_group4\\prog2070_assignment2_group4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|solutionrelative:prog2070_assignment2_group4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 585,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\ProductUnitTests\\ProductTest.cs",
+              "RelativeDocumentMoniker": "ProductUnitTests\\ProductTest.cs",
+              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\ProductUnitTests\\ProductTest.cs",
+              "RelativeToolTip": "ProductUnitTests\\ProductTest.cs",
+              "ViewState": "AgIAAMMAAAAAAAAAAAAuwNsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:14:03.319Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4\\Product.cs",
+              "RelativeDocumentMoniker": "PROG2070_Assignment2_Group4\\Product.cs",
+              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4\\Product.cs",
+              "RelativeToolTip": "PROG2070_Assignment2_Group4\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:03:36.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4\\Program.cs",
+              "RelativeDocumentMoniker": "PROG2070_Assignment2_Group4\\Program.cs",
+              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4\\Program.cs",
+              "RelativeToolTip": "PROG2070_Assignment2_Group4\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T20:03:06.77Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 620,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
