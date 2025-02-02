@@ -87,7 +87,7 @@ namespace ProductUnitTests
         public void ItemPriceOutOfRange_Test(decimal invalidItemPrice)
         {
             // Arrange
-            //decimal validItemPrice = 2500.25;
+            //decimal validItemPrice = 5000.01;
 
             // Act & Assert
             try
