@@ -171,71 +171,126 @@ namespace ProductUnitTests
         }
 
 
-        /********************************************************************************************************************/
-        // Team Member 3: Amaninder Dhillon
-        // Test Case 13: Check the stock amount increased correctly
-        [Test]
-        public void IncreaseStockAmount_Test()
+    /********************************************************************************************************************/
+    // Team Member 3: Amaninder Dhillon
+    // Test Case 13: Check the stock amount increased correctly
+    [Test]
+    public void StockAmount_IncreasedBy20_StockAmountIncreasedBy20()
+    {
+        // Arrange
+        int initialStock = 80;
+        int amountToAdd = 20;
+        int expectedStock = 100;
+        _product.StockAmount = initialStock;
+        // Act
+        _product.IncreaseStock(amountToAdd);
+        // Assert
+        Assert.That(_product.StockAmount, Is.EqualTo(expectedStock));
+    }
+
+
+    // Test Case 14: Check the stock amount increased by Zero
+    [Test]
+    public void StockAmount_IncreasedAbove500000_ThrowsArgumentException_AndStockUnchanged()
+    {
+        // Arrange
+        int initialStock = 450000;
+        int amountToAdd = 60000;
+        _product.StockAmount = initialStock;
+
+        // Act
+        try
         {
-            // Arrange
-            // Act
-            // Assert
+            _product.IncreaseStock(amountToAdd);
+            Assert.Fail("Expected ArgumentException was not thrown.");
         }
-
-
-        // Test Case 14: Check the stock amount increased by Zero
-        [TestCase(0)]
-
-        public void IncreaseStockAmountZero_Test(int amount)
+        // Assert
+        catch (ArgumentException ex)
         {
-            // Arrange
-            int initialStockAmount = _product.StockAmount;
-
-            // Act
-            _product.IncreaseStock(amount);
-
-            // Assert
-            Assert.AreEqual(initialStockAmount, _product.StockAmount);
+            Assert.That(ex.Message, Does.Contain("Stock Amount must be between 5 and 500000"));
         }
+    }
 
 
-        // Test Case 15: Check the stock amount increased by negative value
-        [Test]
-        public void IncreaseStockAmountNegativeValue_Test()
+    // Test Case 15: Check the stock amount increased by negative value
+    [Test]
+    public void StockAmount_IncreasedByNegative20_ThrowsArgumentException_AndStockUnchanged()
+    {
+        // Arrange
+        int initialStock = 80;
+        int amountToAdd = -20;
+        _product.StockAmount = initialStock;
+        // Act
+        try
         {
-            // Arrange
-            // Act
-            // Assert
+            _product.IncreaseStock(amountToAdd);
+            Assert.Fail("Expected ArgumentException was not thrown.");
         }
-
-
-        // Test Case 16: Check the stock amount decreased correctly
-        [Test]
-        public void DecreaseStockAmount_Test()
+        // Assert
+        catch (ArgumentException ex)
         {
-            // Arrange
-            // Act
-            // Assert
+            Assert.That(ex.Message, Does.Contain("Stock Increase Amount must be greater than 0"));
         }
+    }
 
 
-        // Test Case 17: Check the stock amount decreased by Zero
-        [Test]
-        public void DecreaseStockAmountZero_Test()
+    // Test Case 16: Check the stock amount decreased correctly
+    [Test]
+    public void StockAmount_DecreasedBy20_StockAmountDecreasedBy20()
+    {
+        // Arrange
+        int initialStock = 120;
+        int amountToReduce = 20;
+        int expectedStock = 100;
+        _product.StockAmount = initialStock;
+        // Act
+        _product.DecreaseStock(amountToReduce);
+        // Assert
+        Assert.That(_product.StockAmount, Is.EqualTo(expectedStock));
+    }
+
+
+    // Test Case 17: Check the stock amount decreased by Zero
+    [Test]
+    public void StockAmount_DecreaseBelow5_ThrowsArgumentException_AndStockUnchanged()
+    {
+        // Arrange
+        int initialStock = 10;
+        int amountToReduce = 6;
+        _product.StockAmount = initialStock;
+        // Act
+        try
         {
-            // Arrange
-            // Act
-            // Assert
+            _product.DecreaseStock(amountToReduce);
+            Assert.Fail("Expected ArgumentException was not thrown.");
         }
-
-
-        // Test Case 18: Check the stock amount decreased by negative value
-        [Test]
-        public void DecreaseStockAmountNegativeValue_Test()
+        // Assert
+        catch (ArgumentException ex)
         {
-            // Arrange
-            // Act
-            // Assert
+            Assert.That(ex.Message, Does.Contain("Stock Amount must be between 5 and 500000"));
         }
+    }
+
+
+    // Test Case 18: Check the stock amount decreased by negative value
+    [Test]
+    public void StockAmount_DecreasedByNegative20_ThrowsArgumentException_AndStockUnchanged()
+    {
+        // Arrange
+        int initialStock = 80;
+        int amountToReduce = -20;
+        _product.StockAmount = initialStock;
+        // Act
+        try
+        {
+            _product.DecreaseStock(amountToReduce);
+            Assert.Fail("Expected ArgumentException was not thrown.");
+        }
+        // Assert
+        catch (ArgumentException ex)
+        {
+            Assert.That(ex.Message, Does.Contain("Stock Decrease Amount must be greater than 0"));
+        }
+    }
     }
 }
