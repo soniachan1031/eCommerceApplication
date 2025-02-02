@@ -107,11 +107,6 @@ namespace PROG2070_Assignment2_Group4
                 throw new ArgumentOutOfRangeException("Stock Increase Amount must be greater than 0");
             }
 
-            if (amount == 0)
-            {
-                throw new ArgumentException("Stock Increase Amount cannot be 0");
-            }
-
             StockAmount += amount;
         }
 
@@ -123,11 +118,6 @@ namespace PROG2070_Assignment2_Group4
                 throw new ArgumentOutOfRangeException("Stock Decrease Amount must be greater than 0");
             }
             
-            if (amount == 0)
-            {
-                throw new ArgumentException("Stock Decrease Amount cannot be 0");
-            }
-
             StockAmount -= amount;
         }
     }
