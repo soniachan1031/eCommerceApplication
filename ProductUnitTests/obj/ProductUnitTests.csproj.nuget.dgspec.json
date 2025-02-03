@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj": {}
+    "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj": {}
   },
   "projects": {
-    "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj": {
+    "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj",
+        "projectUniqueName": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj",
         "projectName": "ProductUnitTests",
-        "projectPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj",
-        "packagesPath": "C:\\Users\\Sonia Chan\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\obj\\",
+        "projectPath": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\ProductUnitTests\\ProductUnitTests.csproj",
+        "packagesPath": "C:\\Users\\disna\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\ProductUnitTests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sonia Chan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\disna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -33,8 +33,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj": {
-                "projectPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj"
+              "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj": {
+                "projectPath": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj"
               }
             }
           }
@@ -43,13 +43,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -92,24 +86,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj": {
+    "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj",
+        "projectUniqueName": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj",
         "projectName": "PROG2070_Assignment2_Group4",
-        "projectPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj",
-        "packagesPath": "C:\\Users\\Sonia Chan\\.nuget\\packages\\",
-        "outputPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\obj\\",
+        "projectPath": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj",
+        "packagesPath": "C:\\Users\\disna\\.nuget\\packages\\",
+        "outputPath": "D:\\College\\FINAL SEM\\SOFTWARE QUALITY ASSURANCE\\eCommerceApplication\\PROG2070_Assignment2_Group4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Sonia Chan\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\disna\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -131,13 +125,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+        }
       },
       "frameworks": {
         "net8.0": {
@@ -158,7 +146,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.101/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
