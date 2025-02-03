@@ -17,7 +17,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 585,
+          "DockedWidth": 699,
           "SelectedChildIndex": 6,
           "Children": [
             {
@@ -52,7 +52,7 @@
               "RelativeDocumentMoniker": "ProductUnitTests\\ProductTest.cs",
               "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductTest.cs",
               "RelativeToolTip": "ProductUnitTests\\ProductTest.cs",
-              "ViewState": "AgIAAFIAAAAAAAAAAAAQwGEAAAAyAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T20:14:03.319Z",
               "EditorCaption": ""
@@ -67,13 +67,12 @@
               "RelativeToolTip": "PROG2070_Assignment2_Group4\\Product.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:03:36.879Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-01-31T20:03:36.879Z"
             }
           ]
         },
         {
-          "DockedWidth": 620,
+          "DockedWidth": 506,
           "SelectedChildIndex": -1,
           "Children": [
             {
