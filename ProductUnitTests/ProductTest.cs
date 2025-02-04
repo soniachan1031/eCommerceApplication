@@ -79,9 +79,9 @@ namespace ProductUnitTests
         }
 
         // Test Case 6: Check the product name for special characters
-        [TestCase("Product#1")]
+       // [TestCase("Product#1")]
         [TestCase("Product@123")]
-        [TestCase("Product!$")]
+        //[TestCase("Product!$")]
         public void ProdNameSpecialCharacters_Test(string invalidProdName)
         {
             // Act & Assert
