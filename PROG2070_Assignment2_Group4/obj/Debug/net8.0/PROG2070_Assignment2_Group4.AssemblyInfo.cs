@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PROG2070_Assignment2_Group4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a0ffe3d9ccabd9fda0cfce5d6d3afdae4d5770a8")]
 [assembly: System.Reflection.AssemblyProductAttribute("PROG2070_Assignment2_Group4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PROG2070_Assignment2_Group4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

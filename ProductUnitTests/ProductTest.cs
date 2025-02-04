@@ -12,15 +12,11 @@ namespace ProductUnitTests
             _product = new Product();
         }
 
-
-        // Team Member 1: Disna Joy 8912839
+        // Team Member 1: Disna Joy
         // Test Case 1: Check the product ID with the maximum value
         [TestCase(50000)]
         public void ProdIDMaximumValue_Test(int maxProdID)
         {
-            // Arrange
-            // int maxProdID = 50000;
-
             // Act
             _product.ProdID = maxProdID;
 
@@ -28,55 +24,76 @@ namespace ProductUnitTests
             Assert.That(_product.ProdID, Is.EqualTo(maxProdID));
         }
 
-
         // Test Case 2: Check the product ID with the minimum value
         [TestCase(5)]
         public void ProdIDMinimumValue_Test(int minProdID)
         {
-            // Arrange
             // Act
-            // Assert
-        }
+            _product.ProdID = minProdID;
 
+            // Assert
+            Assert.That(_product.ProdID, Is.EqualTo(minProdID));
+        }
 
         // Test Case 3: Check the product ID out of range value
         [TestCase(4)]
         public void ProdIDOutOfRange_Test(int invalidProdID)
         {
-            // Arrange
-            // Act
-            // Assert
+            // Act & Assert
+            try
+            {
+                _product.ProdID = invalidProdID;
+                Assert.Fail("Expected ArgumentOutOfRangeException was not thrown.");
+            }
+            catch (ArgumentOutOfRangeException ex)
+            {
+                Assert.That(ex.Message, Does.Contain("Product ID must be between 5 and 50000"));
+            }
         }
-
 
         // Test Case 4: Check the product name is not empty
         [TestCase("Test Product")]
         public void ProdNameNotEmpty_Test(string validProdName)
         {
-            // Arrange
             // Act
+            _product.ProdName = validProdName;
+
             // Assert
-
+            Assert.That(_product.ProdName, Is.Not.Empty);
         }
-
 
         // Test Case 5: Check the product name is null
         [Test]
         public void ProdNameIsNull_Test()
         {
-            // Arrange
-            // Act
-            // Assert
+            // Act & Assert
+            try
+            {
+                _product.ProdName = null;
+                Assert.Fail("Expected ArgumentException was not thrown.");
+            }
+            catch (ArgumentException ex)
+            {
+                Assert.That(ex.Message, Does.Contain("Product Name cannot be null"));
+            }
         }
 
-
-        // Test Case 6: Check the product name is for Special Characters
+        // Test Case 6: Check the product name for special characters
         [TestCase("Product#1")]
+        [TestCase("Product@123")]
+        [TestCase("Product!$")]
         public void ProdNameSpecialCharacters_Test(string invalidProdName)
         {
-            // Arrange
-            // Act
-            // Assert
+            // Act & Assert
+            try
+            {
+                _product.ProdName = invalidProdName;
+                Assert.Fail("Expected ArgumentException was not thrown.");
+            }
+            catch (ArgumentException ex)
+            {
+                Assert.That(ex.Message, Does.Contain("Product Name can only contain letters, numbers, and spaces."));
+            }
         }
 
 
