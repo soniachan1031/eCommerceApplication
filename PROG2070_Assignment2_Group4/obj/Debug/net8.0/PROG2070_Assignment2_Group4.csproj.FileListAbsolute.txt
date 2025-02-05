@@ -42,3 +42,18 @@ D:\College\FINAL SEM\SOFTWARE QUALITY ASSURANCE\eCommerceApplication\PROG2070_As
 D:\College\FINAL SEM\SOFTWARE QUALITY ASSURANCE\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.pdb
 D:\College\FINAL SEM\SOFTWARE QUALITY ASSURANCE\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.genruntimeconfig.cache
 D:\College\FINAL SEM\SOFTWARE QUALITY ASSURANCE\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\ref\PROG2070_Assignment2_Group4.dll
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\bin\Debug\net8.0\PROG2070_Assignment2_Group4.exe
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\bin\Debug\net8.0\PROG2070_Assignment2_Group4.deps.json
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\bin\Debug\net8.0\PROG2070_Assignment2_Group4.runtimeconfig.json
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\bin\Debug\net8.0\PROG2070_Assignment2_Group4.dll
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\bin\Debug\net8.0\PROG2070_Assignment2_Group4.pdb
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.AssemblyInfoInputs.cache
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.AssemblyInfo.cs
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.csproj.CoreCompileInputs.cache
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.sourcelink.json
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.dll
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\refint\PROG2070_Assignment2_Group4.dll
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.pdb
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\PROG2070_Assignment2_Group4.genruntimeconfig.cache
+C:\Workspace\Sem 4\PROG2070 Programming Software Quality Assurance\Assignment\Assignment 2\Submission\eCommerceApplication\PROG2070_Assignment2_Group4\obj\Debug\net8.0\ref\PROG2070_Assignment2_Group4.dll

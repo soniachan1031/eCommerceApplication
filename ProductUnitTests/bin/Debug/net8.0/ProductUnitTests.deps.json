@@ -319,7 +319,10 @@
       "System.Reflection.Metadata/1.6.0": {},
       "PROG2070_Assignment2_Group4/1.0.0": {
         "runtime": {
-          "PROG2070_Assignment2_Group4.dll": {}
+          "PROG2070_Assignment2_Group4.dll": {
+            "assemblyVersion": "1.0.0",
+            "fileVersion": "1.0.0.0"
+          }
         }
       }
     }

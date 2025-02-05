@@ -1,13 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\",
+  "WorkspaceRootPath": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Submission\\eCommerceApplication\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{53F6FA6E-CD1A-436F-8743-38B7686504BE}|ProductUnitTests\\ProductUnitTests.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\main\\ecommerceapplication\\productunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{53F6FA6E-CD1A-436F-8743-38B7686504BE}|ProductUnitTests\\ProductUnitTests.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\submission\\ecommerceapplication\\productunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53F6FA6E-CD1A-436F-8743-38B7686504BE}|ProductUnitTests\\ProductUnitTests.csproj|solutionrelative:productunittests\\producttest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\main\\ecommerceapplication\\prog2070_assignment2_group4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|c:\\workspace\\sem 4\\prog2070 programming software quality assurance\\assignment\\assignment 2\\submission\\ecommerceapplication\\prog2070_assignment2_group4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3F6DB2A3-A1A8-46F0-980F-68B05837CAA6}|PROG2070_Assignment2_Group4\\PROG2070_Assignment2_Group4.csproj|solutionrelative:prog2070_assignment2_group4\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -48,11 +48,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "ProductTest.cs",
-              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductTest.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Submission\\eCommerceApplication\\ProductUnitTests\\ProductTest.cs",
               "RelativeDocumentMoniker": "ProductUnitTests\\ProductTest.cs",
-              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\ProductUnitTests\\ProductTest.cs",
+              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Submission\\eCommerceApplication\\ProductUnitTests\\ProductTest.cs",
               "RelativeToolTip": "ProductUnitTests\\ProductTest.cs",
-              "ViewState": "AgIAAB4AAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAAA4AAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-01-31T20:14:03.319Z",
               "EditorCaption": ""
@@ -61,13 +61,14 @@
               "$type": "Document",
               "DocumentIndex": 1,
               "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\Product.cs",
+              "DocumentMoniker": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Submission\\eCommerceApplication\\PROG2070_Assignment2_Group4\\Product.cs",
               "RelativeDocumentMoniker": "PROG2070_Assignment2_Group4\\Product.cs",
-              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Main\\eCommerceApplication\\PROG2070_Assignment2_Group4\\Product.cs",
+              "ToolTip": "C:\\Workspace\\Sem 4\\PROG2070 Programming Software Quality Assurance\\Assignment\\Assignment 2\\Submission\\eCommerceApplication\\PROG2070_Assignment2_Group4\\Product.cs",
               "RelativeToolTip": "PROG2070_Assignment2_Group4\\Product.cs",
               "ViewState": "AgIAACEAAAAAAAAAAAAAACgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-31T20:03:36.879Z"
+              "WhenOpened": "2025-01-31T20:03:36.879Z",
+              "EditorCaption": ""
             }
           ]
         },

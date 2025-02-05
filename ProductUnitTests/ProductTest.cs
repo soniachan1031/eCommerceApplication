@@ -154,7 +154,7 @@ namespace ProductUnitTests
         public void StockAmountOutOfRange_Test(int invalidStockAmount)
         {
             // Arrange
-            //int validStockAmount = 1000;
+            //int validStockAmount = 500001;
 
             // Act & Assert
             try
